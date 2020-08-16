@@ -1,0 +1,6 @@
+project/ICON
+project/image
+
+project/*.xls
+
+project/DWIN_SET/*.bin
