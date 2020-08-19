@@ -1,8 +1,8 @@
 # DGUS-reloaded-Klipper
 
-Firmware for 3D printers' DGUS touchscreens.
+DGUS touchscreen firmware for 3D printers running Klipper.
 
-The printer firmware to run alongside this can be found in [this repository](https://github.com/Desuuuu/klipper).
+Requires using a modified version of Klipper to work properly, which can be found in [this repository](https://github.com/Desuuuu/klipper).
 
 ## Disclaimer
 **This software is provided without any warranty. You are solely responsible for your use of it.**
