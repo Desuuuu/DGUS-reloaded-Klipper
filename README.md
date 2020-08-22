@@ -56,6 +56,8 @@ And this command to your end G-code:
 DGUS_PRINT_END
 ```
 
+Example Klipper configurations are available in [this repository](https://github.com/Desuuuu/DGUS-reloaded-Klipper-config).
+
 ## Installation
 The installation process is detailed on [this wiki page](https://github.com/Desuuuu/DGUS-reloaded-Klipper/wiki/Flashing-the-firmware).
 
