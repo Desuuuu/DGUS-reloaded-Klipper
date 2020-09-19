@@ -27,8 +27,8 @@ This firmware **should** be compatible with printers equipped with the following
 * 480x272 DWIN touchscreen
 * Single extruder
 * Heated bed
-* Single controllable fan
-* Bed leveling sensor (including a BLTouch)
+* *(Optional)* Single controllable fan
+* *(Optional)* Bed leveling sensor (including a BLTouch)
 
 It **could** also work on machines equipped with more hardware (dual extruder, etc.) but will lack on-screen controls for such hardware.
 
