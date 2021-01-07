@@ -47,7 +47,7 @@ firmware: dgus_reloaded
 
 For a list of available options, see the [sample-t5uid1.cfg](https://github.com/Desuuuu/klipper/blob/master/config/sample-t5uid1.cfg) file.
 
-It is also a good idea to add this command to your start G-code:
+In order for the print status to work, you will need to add this command to your start G-code:
 ```
 DGUS_PRINT_START
 ```
