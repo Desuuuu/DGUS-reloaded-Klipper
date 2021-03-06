@@ -47,19 +47,11 @@ firmware: dgus_reloaded
 
 For a list of available options, see the [sample-t5uid1.cfg](https://github.com/Desuuuu/klipper/blob/master/config/sample-t5uid1.cfg) file.
 
-In order for the print status to work, you will need to add this command to your start G-code:
-```
-DGUS_PRINT_START
-```
-And this command to your end G-code:
-```
-DGUS_PRINT_END
-```
-
 Example Klipper configurations are available in [this repository](https://github.com/Desuuuu/DGUS-reloaded-Klipper-config).
 
 ## Wiki
 * [Flashing the firmware](https://github.com/Desuuuu/DGUS-reloaded-Klipper/wiki/Flashing-the-firmware)
+* [Print status](https://github.com/Desuuuu/DGUS-reloaded-Klipper/wiki/Print-status)
 * [Print progress display](https://github.com/Desuuuu/DGUS-reloaded-Klipper/wiki/Print-progress-display)
 
 ## Modification / Compilation
