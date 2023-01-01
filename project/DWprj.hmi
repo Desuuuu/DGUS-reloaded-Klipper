@@ -1,8 +1,8 @@
 [INIT]
 PICFIX=1
 VARCount=64
-Version=1
-SCREENDSIZE=480X272
+Version=-1
+SCREENDSIZE=272X480
 SPADDRESS=5000
 [IMG]
 000=000_boot.bmp
@@ -39,6 +39,5 @@ SPADDRESS=5000
 212=212_popup_steppers.bmp
 213=213_popup_steppers_sel.bmp
 240=240_debug1.bmp
-241=241_debug2.bmp
 249=249_wait.bmp
 250=250_kill.bmp
